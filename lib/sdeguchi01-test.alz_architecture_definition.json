@@ -1,0 +1,13 @@
+{
+  "name": "sdeguchi01-test",
+  "management_groups": [
+    {
+      "archetypes": [
+      ],
+      "display_name": "sdeguchi01 test",
+      "exists": false,
+      "id": "sdeguchi01-test-github",
+      "parent_id": null
+    }
+  ]
+}
