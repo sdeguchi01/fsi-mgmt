@@ -1,0 +1,8 @@
+automation_account_name         = "sdeguchi02"
+configuration_file_path         = "C:\\repos\\test\\github\\alz-terraform-accelerator\\templates\\Microsoft_Cloud_for_Financial_Services\\config.json"
+default_location                = "eastus"
+default_postfix                 = "test2"
+root_parent_management_group_id = "sdeguchi01"
+subscription_id_connectivity    = "6bbd80cc-b191-4acf-9bd9-f74a882883af"
+subscription_id_identity        = "3e9afdf4-281e-40bd-b256-391b94db65f1"
+subscription_id_management      = "a77104ed-6c5a-42eb-a469-8b566d54c209"
